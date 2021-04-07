@@ -12,7 +12,7 @@
 ### 1
 > You will want to create an account or sign into github
 > https://gitforwindows.org/ -- in case you didn't download it earlier
-> After downloading git you will want to sign in in your terminal as well
+> After downloading git you will want to sign in in your terminal as well using these commands
 
 `git config user.name <my-name>`
 `git config user.password <my-email>`
