@@ -35,5 +35,5 @@
 https://www.youtube.com/watch?v=vbQ2bYHxxEA
 
 ## ESSENTIAL GIT KNOWLEDGE! PLEASE WATCH
-https://www.youtube.com/watch?v=iJKIxrJ40ss
-https://www.youtube.com/watch?v=SWYqp7iY_Tc
+> https://www.youtube.com/watch?v=iJKIxrJ40ss
+> https://www.youtube.com/watch?v=SWYqp7iY_Tc
