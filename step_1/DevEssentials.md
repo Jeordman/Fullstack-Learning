@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=5XgBd6rjuDQ
 - mkdir
 - rm
 
-> [!CAUTION]
+[!CAUTION]
 > - rm -rf 
 > ^ this command is very important, but you can fuck up your whole computer if you use it wrong!
 > used for deleting folders
