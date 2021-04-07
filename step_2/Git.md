@@ -1,5 +1,4 @@
 # Git & GitHub Crash Course For Beginners!
-[image](https://user-images.githubusercontent.com/50608600/113946652-24b39600-97c6-11eb-8245-24aeb9317ebe.png)
 
 # You will need a CODE EDITOR 
 > Best option for learning is
