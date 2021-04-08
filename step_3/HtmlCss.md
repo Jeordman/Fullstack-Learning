@@ -14,3 +14,5 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
 > After this section you should be able to choose a website you like 
 > ex) Spacex.com, nike.com
 > choose a website you like and try to make an HTML page the matches it (you don't have to spend more than a few hours on it, but I HIGHLY recommend doing this
+
+# By the end of this section you should have spent around 6 or more hours to really understand this stuff
