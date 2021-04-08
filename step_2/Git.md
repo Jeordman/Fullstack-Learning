@@ -41,3 +41,4 @@ https://www.youtube.com/watch?v=vbQ2bYHxxEA
 
 ## VSCODE INFO
 > https://www.youtube.com/watch?v=ORrELERGIHs
+> https://www.youtube.com/watch?v=u21W_tfPVrY
