@@ -39,6 +39,7 @@ https://www.youtube.com/watch?v=vbQ2bYHxxEA
 > 
 > https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
-## VSCODE INFO
+## VSCODE INFO DONT SKIP THIS - Watch at least 1 of these
 > https://www.youtube.com/watch?v=ORrELERGIHs
+> 
 > https://www.youtube.com/watch?v=u21W_tfPVrY
