@@ -1,5 +1,6 @@
 ### Javascript  
-> Javascript is the language of the web
+> Javascript is the language of the web.
+> 
 > Here are resources in order  
 
 > https://www.youtube.com/watch?v=hdI2bqOjy3c&t=1722s
