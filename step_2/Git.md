@@ -14,9 +14,11 @@
 > https://gitforwindows.org/ -- in case you didn't download it earlier
 > After downloading git you will want to sign in in your terminal as well using these commands
 
-`git config user.name <my-name>`
-`git config user.password <my-email>`
-`git config user.email <my-email>`
+`git config --global user.name "my-name"`
+
+`git config --global user.password "my-email"`
+
+`git config --global user.email "my-email"`
 
 ### You should now be signed in ^
 
