@@ -16,9 +16,9 @@
 
 `git config --global user.name "my-name"`
 
-`git config --global user.password "my-email"`
-
 `git config --global user.email "my-email"`
+
+`git config --global user.password "my-password"`
 
 ### You should now be signed in ^
 
